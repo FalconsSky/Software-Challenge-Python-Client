@@ -1,4 +1,4 @@
 sphinx==7.3.7
-sphinx-autoapi==3.0.0
+sphinx-autoapi==3.3.2
 furo==2024.5.6
 xsdata==22.9
